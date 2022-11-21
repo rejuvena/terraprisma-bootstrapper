@@ -1,0 +1,3 @@
+displayName = Terraprisma - tML Bootstrapper
+author = Tomat & The Rejuvena Team
+version = 1.0.0
